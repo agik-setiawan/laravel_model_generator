@@ -1,5 +1,5 @@
 <?php
-namespace ModelGenerator\Providers;
+namespace Djancok\ModelGenerator\Providers;
 use Illuminate\Support\ServiceProvider;
 class ModelGeneratorServiceProvider extends ServiceProvider
 {

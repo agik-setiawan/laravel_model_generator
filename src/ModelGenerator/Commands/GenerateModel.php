@@ -1,6 +1,6 @@
 <?php
 
-namespace ModelGenerator\Commands;
+namespace Djancok\ModelGenerator\Commands;
 
 use Illuminate\Console\Command;
 use File;
