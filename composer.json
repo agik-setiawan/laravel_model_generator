@@ -12,7 +12,7 @@
     "homepage": "https://github.com/agik-setiawan/laravel_model_generator",
     "autoload": {
         "psr-4": {
-            "Djancok\ModelGenerator\\": "src/"
+            "Djancok\\": "src/"
         }
     },
     "require":{
