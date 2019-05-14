@@ -12,7 +12,7 @@ class ModelGeneratorServiceProvider extends ServiceProvider
     {
         if ($this->app->runningInConsole()) {
             $this->commands([
-                \ModelGenerator\Commands\GenerateModel::class,
+                \Djancok\ModelGenerator\Commands\GenerateModel::class,
             ]);
         }
     }
